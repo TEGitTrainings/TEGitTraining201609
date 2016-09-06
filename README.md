@@ -7,3 +7,5 @@ Tohle by mela byt prvni zmena kterou si checkoutnete
 Paty commit
 
 Tohle by mel byt prvni commit co dneska pushnu
+
+tohle bude konflikt
