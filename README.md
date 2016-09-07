@@ -4,7 +4,9 @@ Ctvrty commit
 
 Tohle by mela byt prvni zmena kterou si checkoutnete
 
-Paty commit
+Paty commit kjsdfkkuguj
+llukgakssadkjg
+asaskjgjkmjgds
 
 Tohle by mel byt prvni commit co dneska pushnu
 
